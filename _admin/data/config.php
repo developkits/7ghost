@@ -1,6 +1,6 @@
 <?php return array (
-  'password' => '1canDOit',
-  'host' => 'https://downloads.openwrt.org/',
+  'password' => 'baccano',
+  'host' => 'https://www.google.com.hk/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
@@ -13,6 +13,12 @@
   'diyAgent' => '',
   'replaces' => 
   array (
+    0 => 
+    array (
+      'name' => '²å»¨',
+      'seach' => 'Ïã¸Û',
+      'replace' => 'ĞøÃü',
+    ),
   ),
   'pages' => 
   array (
